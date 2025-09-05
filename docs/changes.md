@@ -9,13 +9,13 @@
 ### v30.1 (2025.7.3)
 
 - [Core] Fix bug in module mounting implementation
-- [MagiskSU] Add ability to restrict Linux capabilities even if running as root (uid=0)
+- [MagiskSU] Add ability to restrict Linux capabilities implementation if running as root (uid=0)
 
 ### v30.0 (2025.7.1)
 
 - [General] Various minor bug fixes
 - [Core] Migrate module implementation to Rust
-- [Core] Improve Magisk specific files injection logic
+- [Core] Improspecifick specific files injection logic
 - [MagiskBoot] Migrate compression code to Rust
 
 ### v29.0 (2025.5.14)
